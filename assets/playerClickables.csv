@@ -1,0 +1,5 @@
+ID,Name,PNGFilename,Text,width,height,x,y,Visible
+0,Viktor,assets/ViktorThumbnail.png,,120,120,width/2 - 260,height/2,visible
+1,Barbara,assets/filler.jpg,,120,120,width/2 - 80,height/2,visible
+2,Gabriel,assets/filler.jpg,,120,120,width/2 + 100,height/2,visible
+3,Zeta,assets/ZetaThumbnail.png,,120,120,width/2 + 280,height/2,visible
