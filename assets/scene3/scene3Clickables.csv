@@ -1,0 +1,7 @@
+ID,Name,PNGFilename,Text,width,height,x,y,Visible,color
+0,DataVulnerability1,,Trigger Failsafe,280,100,150,height-130,visible,#acc0e3
+1,DataVulnerability2,,Continue Operation,280,100,width-430,height-130,visible,#acc0e3
+2,CallsForAid1,,Make Further Plans for Expansion,280,100,150,height-130,visible,#acc0e3						
+3,CallsForAid2,,Prioritize Local Facilities,280,100,width-430,height-130,visible,#acc0e3
+4,HawaiiRallies1,,Address the Issue Publicly,280,100,150,height-130,visible,#acc0e3						
+5,HawaiiRallies2,,Deflect and Prioritize Profits,280,100,width-430,height-130,visible,#acc0e3

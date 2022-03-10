@@ -1,9 +1,9 @@
-ID,Name,PNGFilename,Text,width,height,x,y,Visible
-0,Viktor1,,Accept Offer,280,100,150,height-130,visible						
-1,Viktor2,,Decline Offer,280,100,width-430,height-130,visible
-2,SciDemo1,,Attend Fair,280,100,150,height-130,visible					
-3,SciDemo2,,Don't Go,280,100,width-430,height-130,visible
-4,BranchOut1,,Expand Out of Hawaii,280,100,150,height-130,visible						
-5,BranchOut2,,Postpone Expansion Plans,280,100,width-430,height-130,visible
-6,RaiseCost1,,Raise Med. Plan Costs,280,100,150,height-130,visible				
-7,RaiseCost2,,Continue Current Production,280,100,width-430,height-130,visible
+ID,Name,PNGFilename,Text,width,height,x,y,Visible,color
+0,Viktor1,,Accept Offer,280,100,150,height-130,visible,#acc0e3					
+1,Viktor2,,Decline Offer,280,100,width-430,height-130,visible,#acc0e3
+2,SciDemo1,,Attend Fair,280,100,150,height-130,visible,#acc0e3
+3,SciDemo2,,Don't Go,280,100,width-430,height-130,visible,#acc0e3
+4,BranchOut1,,Expand Out of Hawaii,280,100,150,height-130,visible,#acc0e3						
+5,BranchOut2,,Postpone Expansion Plans,280,100,width-430,height-130,visible,#acc0e3
+6,RaiseCost1,,Raise Med. Plan Costs,280,100,150,height-130,visible,#acc0e3
+7,RaiseCost2,,Continue Current Production,280,100,width-430,height-130,visible,#acc0e3

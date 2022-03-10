@@ -1,0 +1,7 @@
+ID,Name,PNGFilename,Text,width,height,x,y,Visible,color
+0,Viktor1.2,,Accept Proposal,280,100,150,height-130,visible,#acc0e3
+1,Viktor2.2,,Decline Proposal,280,100,width-430,height-130,visible,#acc0e3
+2,MissingNanos1,,Prioritize Investigation,280,100,150,height-130,visible,#acc0e3						
+3,MissingNanos2,,Investigate in Parallel,280,100,width-430,height-130,visible,#acc0e3
+4,BranchOut1.2,,Continue Expansion,280,100,150,height-130,visible,#acc0e3						
+5,BranchOut2.2,,Postpone Expansion,280,100,width-430,height-130,visible,#acc0e3
